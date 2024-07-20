@@ -21,12 +21,12 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  TOKEN: "MTI2NDAwOTgwNTQ1OTIzMDgyMA.GneWU4.kNmyMO7dAj2xGEkyrX3opErEahmNE2GsdnIjXI",
+  ownerID: ["504377288440152064", ""],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1264009805459230820&permissions=706525652992&integration_type=0&scope=bot",
+  supportServer: "https://discord.gg/5jyRXvDsED",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'Put dispenser here!',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -40,7 +40,7 @@ module.exports = {
 
   voteManager: {
     status: false,
-    api_key: "",
+    api_key: "bddd4064fde0571947976aab11d76256e615b324996c5c3a100a6c80c41c381a",
     vote_commands: ["back", "channel", "clear", "dj", "filter", "loop", "nowplaying", "pause", "playnormal", "playlist", "queue", "resume", "save", "play", "skip", "stop", "time", "volume"],
     vote_url: "",
   },
