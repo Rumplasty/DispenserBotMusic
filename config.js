@@ -21,7 +21,7 @@
 
 
 module.exports = {
-  TOKEN: "MTI2NDAwOTgwNTQ1OTIzMDgyMA.GneWU4.kNmyMO7dAj2xGEkyrX3opErEahmNE2GsdnIjXI",
+  TOKEN: "MTI2NDU1MDY5MTI4OTE3NDAyOA.GxsEdP.RNplLglXp0k6W7EO_n98qbeaV7IN4EZd80s1bU",
   ownerID: ["504377288440152064", ""],
   botInvite: "https://discord.com/oauth2/authorize?client_id=1264009805459230820&permissions=706525652992&integration_type=0&scope=bot",
   supportServer: "https://discord.gg/5jyRXvDsED",
